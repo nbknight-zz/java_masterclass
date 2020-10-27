@@ -30,9 +30,11 @@ public class Main {
 //        System.out.println(LastDigitChecker.isValid(9));
 //        System.out.println(LastDigitChecker.isValid(10000));
 //        System.out.println(LastDigitChecker.isValid(9999));
-        System.out.println(GreatestCommonDivisor.getGreatestCommonDivisor(25,15));
-        System.out.println(GreatestCommonDivisor.getGreatestCommonDivisor(12,30));
-        System.out.println(GreatestCommonDivisor.getGreatestCommonDivisor(9,18));
+//        System.out.println(GreatestCommonDivisor.getGreatestCommonDivisor(25,15));
+//        System.out.println(GreatestCommonDivisor.getGreatestCommonDivisor(12,30));
+//        System.out.println(GreatestCommonDivisor.getGreatestCommonDivisor(9,18));
+//        FactorPrinter.printFactors(6);
+        System.out.println(PerfectNumber.isPerfectNumber(28));
     }
 
 
