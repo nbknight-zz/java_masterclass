@@ -20,6 +20,7 @@ public class SumOddRange {
                 //is i odd?
                 if(isOdd(i)) {
                     sum += i; //if so, sum i
+                    System.out.println(sum + " is sum");
                 }
             }
         }return sum;

@@ -1,5 +1,7 @@
 package com.company;
 
+import java.util.GregorianCalendar;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -15,8 +17,22 @@ public class Main {
 //        NumberInWord.printNumberInWord(9);
 //        NumberInWord.printNumberInWord(-1);
 //        NumberOfDaysInMonth.getDaysInMonth(2,2020);
-        System.out.println(SumOddRange.sumOdd(1,100));
-
+//        System.out.println(SumOddRange.sumOdd(1,100));
+//        System.out.println(NumberPalindrome.isPalindrome(0));
+//        System.out.println(FirstLastDigitSum.sumFirstAndLastDigit(253));
+//        System.out.println(EvenDigitSum.getEvenDigitSum(123456789));
+//        System.out.println(SharedDigit.hasSharedDigit(15, 55));
+//        System.out.println(LastDigitChecker.hasSameLastDigit(41,22,71));
+//        System.out.println(LastDigitChecker.hasSameLastDigit(23,32,42));
+//        System.out.println(LastDigitChecker.hasSameLastDigit(9,99,999));
+//        System.out.println(LastDigitChecker.hasSameLastDigit(10,21,33));
+//        System.out.println(LastDigitChecker.hasSameLastDigit(1, 1, 2));
+//        System.out.println(LastDigitChecker.isValid(9));
+//        System.out.println(LastDigitChecker.isValid(10000));
+//        System.out.println(LastDigitChecker.isValid(9999));
+        System.out.println(GreatestCommonDivisor.getGreatestCommonDivisor(25,15));
+        System.out.println(GreatestCommonDivisor.getGreatestCommonDivisor(12,30));
+        System.out.println(GreatestCommonDivisor.getGreatestCommonDivisor(9,18));
     }
 
 
