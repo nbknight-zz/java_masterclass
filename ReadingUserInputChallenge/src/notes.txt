@@ -1,0 +1,63 @@
+    public static void main(String[] args) {
+        //Call scanner class
+        Scanner scanner = new Scanner(System.in);
+        //Ask for a number;
+        System.out.println("Enter the number 1:");
+        boolean hasNextInt = scanner.hasNextInt();
+        int number = scanner.nextInt();
+
+        System.out.println("The number is: " + number);
+    }
+
+
+now we need to loop it
+
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int count = 1;
+        while(count <= 10) {
+            System.out.println("Enter number " + count);
+            boolean hasNextInt = scanner.hasNextInt();
+            if(hasNextInt){
+                int number = scanner.nextInt();
+                if(number != count){
+                    System.out.println("Sorry, " + number +" is not what I asked for!");
+                    break;
+                } else {
+                    System.out.println("You've entered the number " + number);
+                }
+
+            } else {
+                System.out.println("Invalid Value");
+                break;
+            }
+            count++;
+
+        }
+        scanner.close();
+    }
+}
+
+-- Tim's Notes
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int count = 0;
+        int sum = 0;
+
+        while(true) {
+            int order = counter + 1;
+
+        }
+
+
+        scanner.close();
+    }
+}
