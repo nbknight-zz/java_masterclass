@@ -43,7 +43,8 @@ public class Main {
 //        System.out.println(FlourPacker.canPack(0,5,4));
 //        System.out.println(FlourPacker.canPack(0,5,4));
 //        System.out.println(LargestPrime.getLargestPrime(217));
-        DiagonalStar.printSquareStar(8);
+//        DiagonalStar.printSquareStar(8);
+        InputCalculator.inputThenPrintSumAndAverage();
     }
 
 
