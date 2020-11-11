@@ -44,7 +44,10 @@ public class Main {
 //        System.out.println(FlourPacker.canPack(0,5,4));
 //        System.out.println(LargestPrime.getLargestPrime(217));
 //        DiagonalStar.printSquareStar(8);
-        InputCalculator.inputThenPrintSumAndAverage();
+//        InputCalculator.inputThenPrintSumAndAverage();
+        System.out.println(PaintJob.getBucketCount(7.25, 4.3, 2.35));
+        System.out.println(PaintJob.getBucketCount(3.4,1.5));
+        System.out.println(PaintJob.getBucketCount(3.4,2.1,1.5,2));
     }
 
 
