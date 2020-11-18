@@ -50,15 +50,34 @@ public class Main {
 //        BankAccount nicksAccount = new BankAccount(123456,1000.00,"Nick Knight",
 //                "nick.knight@fakemail.com","123-123-1234");
 
-        BankAccount nicksAccount = new BankAccount();
+//        BankAccount nicksAccount = new BankAccount();
+//
+//        nicksAccount.withdraw(1100.00);
+//        nicksAccount.deposit(50.00);
+//        nicksAccount.withdraw(1100.00);
+//
+//        nicksAccount.deposit(51.00);
+//        nicksAccount.withdraw(1100.00);
+//
+//        BankAccount bobsAccount = new BankAccount("Bob", "bob@email.com", "123-345-5679");
+//        System.out.println(bobsAccount.getAcctNumber() + " name " + bobsAccount.getCustomerName());
 
-        nicksAccount.withdraw(1100.00);
-        nicksAccount.deposit(50.00);
-        nicksAccount.withdraw(1100.00);
+//        VipCustomer person1 = new VipCustomer();
+//        System.out.println(person1.getName());
+//
+//        VipCustomer person2 = new VipCustomer("Bob", "bob@bob.com");
+//        System.out.println(person2.getName());
+//
+//        VipCustomer person3 = new VipCustomer("Tim", 100.00, "tim@email.com");
+//        System.out.println(person3.getName());
 
-        nicksAccount.deposit(51.00);
-        nicksAccount.withdraw(1100.00);
+        Wall wall = new Wall(1.125,-1.0);
+        System.out.println("area= " + wall.getArea());
 
+        wall.setWidth(1.125);
+        System.out.println("width= " + wall.getWidth());
+        System.out.println("height= " + wall.getHeight());
+        System.out.println("area= " + wall.getArea());
 
 
 

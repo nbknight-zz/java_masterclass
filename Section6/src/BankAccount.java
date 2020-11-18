@@ -23,6 +23,10 @@ public class BankAccount {
         System.out.println("New Account Created for " + this.customerName);
     }
 
+    public BankAccount(String customerName, String email, String phoneNumber) {
+        this(99999,100.55, customerName,email,phoneNumber);
+    }
+
     public double getBalance() {
         return balance;
     }
