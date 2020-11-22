@@ -70,14 +70,22 @@ public class Main {
 //
 //        VipCustomer person3 = new VipCustomer("Tim", 100.00, "tim@email.com");
 //        System.out.println(person3.getName());
+//
+//        Wall wall = new Wall(1.125,-1.0);
+//        System.out.println("area= " + wall.getArea());
+//
+//        wall.setWidth(1.125);
+//        System.out.println("width= " + wall.getWidth());
+//        System.out.println("height= " + wall.getHeight());
+//        System.out.println("area= " + wall.getArea());
 
-        Wall wall = new Wall(1.125,-1.0);
-        System.out.println("area= " + wall.getArea());
-
-        wall.setWidth(1.125);
-        System.out.println("width= " + wall.getWidth());
-        System.out.println("height= " + wall.getHeight());
-        System.out.println("area= " + wall.getArea());
+        Point first = new Point(6, 5);
+        Point second = new Point(3, 1);
+        System.out.println("distance(0,0)= " + first.distance());
+        System.out.println("distance(second)= " + first.distance(second));
+        System.out.println("distance(2,2)= " + first.distance(2, 2));
+        Point point = new Point();
+        System.out.println("distance()= " + point.distance());
 
 
 
