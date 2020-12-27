@@ -107,6 +107,12 @@ public class Main {
 //        System.out.println("number.real= " + number.getReal());
 //        System.out.println("number.imaginary= " + number.getImaginary());
 
+        Camaro camaro = new Camaro(36);
+        camaro.steer(45);
+        camaro.accelerate(30);
+        camaro.accelerate(20);
+        camaro.accelerate(-42);
+
 
     }
 }
