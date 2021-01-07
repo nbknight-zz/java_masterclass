@@ -50,7 +50,7 @@ public class Hamburger {
         this.addition4Price = price;
     }
 
-    public double itemizeHambuger() {
+    public double itemizeHamburger() {
         double hamburgerPrice = this.price;
         System.out.println(this.name + " hamburger " + "on a " + this.breadRollType + " roll " +
                 "price is $" + this.price);

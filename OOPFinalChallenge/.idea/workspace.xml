@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba68daee-5ee7-4fa9-89f0-d923b777e875" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../FinalCodingChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalCodingChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalCodingChallenge/src/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalCodingChallenge/src/Hamburger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalCodingChallenge/src/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalCodingChallenge/src/HealthyBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalCodingChallenge/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalCodingChallenge/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PolymorphismChallengeAnswer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismChallengeAnswer/.idea/workspace.xml" afterDir="false" />
