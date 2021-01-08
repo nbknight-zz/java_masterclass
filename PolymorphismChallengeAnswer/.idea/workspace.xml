@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="781adc6f-a22d-4a6a-b8e3-614785cd6f97" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../FinalCodingChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalCodingChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FinalCodingChallenge/src/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalCodingChallenge/src/Hamburger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FinalCodingChallenge/src/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalCodingChallenge/src/HealthyBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FinalCodingChallenge/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalCodingChallenge/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOPFinalChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPFinalChallenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" afterDir="false" />
@@ -109,7 +106,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609993459240" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609993900730" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -160,7 +157,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-18" width="1096" height="1896" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -175,7 +171,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17243335" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17243335" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

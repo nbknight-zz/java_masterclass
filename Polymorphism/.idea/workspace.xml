@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="de0e5891-dcd7-4b94-858b-1e33ff6ccfc4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../FinalCodingChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalCodingChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FinalCodingChallenge/src/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalCodingChallenge/src/Hamburger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FinalCodingChallenge/src/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalCodingChallenge/src/HealthyBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FinalCodingChallenge/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalCodingChallenge/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOPFinalChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPFinalChallenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PolymorphismChallengeAnswer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismChallengeAnswer/.idea/workspace.xml" afterDir="false" />
@@ -40,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1912" />
     <option name="y" value="-18" />
     <option name="width" value="1096" />
@@ -58,7 +55,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609993459211" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609993900715" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -103,8 +100,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-18" width="1096" height="1896" extended-state="7" />
-    <editor active="true" />
+    <frame x="1912" y="-18" width="1096" height="1896" extended-state="6" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -119,7 +115,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17243335" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17243335" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

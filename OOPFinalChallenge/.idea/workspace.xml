@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ba68daee-5ee7-4fa9-89f0-d923b777e875" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../FinalCodingChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalCodingChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FinalCodingChallenge/src/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalCodingChallenge/src/Hamburger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FinalCodingChallenge/src/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalCodingChallenge/src/HealthyBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FinalCodingChallenge/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalCodingChallenge/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PolymorphismChallengeAnswer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismChallengeAnswer/.idea/workspace.xml" afterDir="false" />
@@ -33,7 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -88,8 +85,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
