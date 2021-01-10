@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.Scanner;
 
 public class Main {
@@ -41,6 +42,10 @@ public class Main {
 //        int[] returnedArray = MinElementChallenge.readIntegers(count);
 //        int returnedMin = MinElementChallenge.findMin(returnedArray);
 //        System.out.println("min = " + returnedMin);
+//        int[] array = { 1,5,3,7,11,9,15};
+//        System.out.println("Array = " + Arrays.toString(array));
+//        ReverseArrayChallenge.reverse(array);
+//        System.out.println("Reversed array = " + Arrays.toString(array));
 
 
 
