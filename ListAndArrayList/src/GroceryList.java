@@ -49,7 +49,7 @@ public class GroceryList {
     }
 
     public boolean onFile(String searchItem) {
-        int position = findItem(searchItem);;
+        int position = findItem(searchItem);
         if(position >= 0) {
             return true;
         }
