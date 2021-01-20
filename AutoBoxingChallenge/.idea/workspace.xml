@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a48961b2-b2c8-4c1a-97fe-68840b1778e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallengeSolved/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallengeSolved/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoBoxing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoBoxing/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeWars/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeWars/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../section_8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../section_8/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,10 +70,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="2904" />
-    <option name="height" value="1584" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -103,7 +102,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611005175819" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611020735893" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,7 +143,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
